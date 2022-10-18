@@ -1,0 +1,72 @@
+{
+    "konyv":[
+    {
+        "ID":1,
+        "cim":"Pál utcai fiúk",
+        "szerzo":"Molnár Ferenc",
+        "ar":1115
+    },
+    {
+        "ID":2,
+        "cim":"A programozás rejtelmei",
+        "szerzo":"Gipsz Jakab",
+        "ar":2000
+    }
+    ,
+    {
+        "ID":3,
+        "cim":"Galaxis útikalauz stopposoknak",
+        "szerzo":"Douglas Adams",
+        "ar":2000
+    }
+    ,
+    {
+        "ID":4,
+        "cim":"Kedvencek Temetője",
+        "szerzo":"Stephen King",
+        "ar":2000
+    }
+    ,
+    {
+        "ID":5,
+        "cim":"Római Jog",
+        "szerzo":"Hamza - Földi",
+        "ar":2000
+    }
+    ,
+    {
+        "ID":6,
+        "cim":"Büntető Törvénykönyv",
+        "szerzo":"Tisztességes emberek",
+        "ar":2000
+    }
+    ,
+    {
+        "ID":7,
+        "cim":"Star Wars 23",
+        "szerzo":"Leonardo DiCaprio",
+        "ar":20000
+    }
+    ,
+    {
+        "ID":8,
+        "cim":"Ragyogás",
+        "szerzo":"George Lucas",
+        "ar":2000
+    }
+    ,
+    {
+        "ID":9,
+        "cim":"A kukorica gyermekei",
+        "szerzo":"Gipsz János",
+        "ar":2000
+    }
+    ,
+    {
+        "ID":10,
+        "cim":"Mindent a Kiscicákról",
+        "szerzo":"Kiscicák",
+        "ar":2000
+    }
+    ]
+}
